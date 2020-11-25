@@ -1,0 +1,16 @@
+c:\users\caivv\source\repos\Culebritav2\Culebritav2\bin\Debug\Culebritav2.exe.config
+c:\users\caivv\source\repos\Culebritav2\Culebritav2\bin\Debug\Culebritav2.exe
+c:\users\caivv\source\repos\Culebritav2\Culebritav2\bin\Debug\Culebritav2.pdb
+c:\users\caivv\source\repos\Culebritav2\Culebritav2\obj\Debug\Culebritav2.csprojResolveAssemblyReference.cache
+c:\users\caivv\source\repos\Culebritav2\Culebritav2\obj\Debug\Culebritav2.csproj.CoreCompileInputs.cache
+c:\users\caivv\source\repos\Culebritav2\Culebritav2\obj\Debug\Culebritav2.exe
+c:\users\caivv\source\repos\Culebritav2\Culebritav2\obj\Debug\Culebritav2.pdb
+D:\Culebritav2\Culebritav2\bin\Debug\Culebritav2.exe.config
+D:\Culebritav2\Culebritav2\obj\Debug\Culebritav2.exe
+D:\Culebritav2\Culebritav2\obj\Debug\Culebritav2.pdb
+D:\Culebritav2\Culebritav2\obj\Debug\Culebritav2.csprojResolveAssemblyReference.cache
+D:\Culebritav2\Culebritav2\bin\Debug\Culebritav2.exe
+D:\Culebritav2\Culebritav2\bin\Debug\Culebritav2.pdb
+D:\Proyecto Snake Carlo Velasquez1264418 Sergio Lara1044418\Culebritav2\Culebritav2\bin\Debug\Culebritav2.exe.config
+D:\Proyecto Snake Carlo Velasquez1264418 Sergio Lara1044418\Culebritav2\Culebritav2\obj\Debug\Culebritav2.exe
+D:\Proyecto Snake Carlo Velasquez1264418 Sergio Lara1044418\Culebritav2\Culebritav2\obj\Debug\Culebritav2.pdb
